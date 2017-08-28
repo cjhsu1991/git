@@ -17,3 +17,9 @@ Clone 別人或自己在github上的 Repository - 切換到git資料夾後執行
 建立一個新的 Repository - 創建一個專案資料夾執行 git init
 
 開始使用git - git 基本功能
+
+ git status - 查看目前 git 狀態
+ 
+ git add - 
+ 
+     上傳特定檔案 - git add "檔案名稱"
