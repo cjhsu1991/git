@@ -30,4 +30,5 @@ Clone 別人或自己在github上的 Repository - 切換到git資料夾後執行
  
  必須在做git commit 才完成 git add 的動作
  
-     
+ git commit -m "git_add_test_data.txt(提交訊息)"
+
