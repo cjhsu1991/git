@@ -23,3 +23,11 @@ Clone 別人或自己在github上的 Repository - 切換到git資料夾後執行
  git add - 
  
      上傳特定檔案 - git add "檔案名稱"
+ 
+     上傳所有修改後的檔案 - git add .
+ 
+     (這是尚未完成資料add)
+ 
+ 必須在做git commit 才完成 git add 的動作
+ 
+     
