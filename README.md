@@ -38,7 +38,7 @@ Clone 別人或自己在github上的 Repository - 切換到git資料夾後執行
 
  Push 
    
-   git push -f /*強制覆蓋原有檔案*/
-   
-   git pull，沒有指定remote 和 branch的情況下，git會採用remote（也就是origin) 來merge在master branch上所有的改變
+   git push
+   
+   git push -f /*強制覆蓋原有檔案*/
 
