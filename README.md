@@ -31,4 +31,14 @@ Clone 別人或自己在github上的 Repository - 切換到git資料夾後執行
  必須在做git commit 才完成 git add 的動作
  
  git commit -m "git_add_test_data.txt(提交訊息)"
+ 
+ Modify data 
+  
+  git commit -m "modify的檔案名稱"
+
+ Push 
+   
+   git push -f /*強制覆蓋原有檔案*/
+   
+   git pull，沒有指定remote 和 branch的情況下，git會採用remote（也就是origin) 來merge在master branch上所有的改變
 
